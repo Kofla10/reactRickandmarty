@@ -4,7 +4,7 @@ import './index.css'
 import { RickAndMorty } from './RickAndMorty.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
+  // <React.StrictMode>
     <RickAndMorty/>
-  </React.StrictMode>,
+  // </React.StrictMode>,
 )
